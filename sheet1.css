@@ -1,0 +1,26 @@
+fieldset
+{
+text-align:justify;
+width:200px
+}
+
+h1
+{
+font-family:algerian;
+font-style:bold;
+text-align:center;
+color:red
+}
+
+form
+{
+font-family:lucida handwriting;
+font-size:20;
+border-width:20;
+}
+
+submit
+{
+font-family:times new roman;
+font-stle:bold;
+}
